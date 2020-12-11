@@ -1,2 +1,2 @@
 # LetsUpgrade-class
-LetsUpgrade Assignment 1
+LetsUpgrade class
